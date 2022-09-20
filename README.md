@@ -1,5 +1,5 @@
 # F20DL
 
 **Lab Weeks**
-- [x] Week 1
-- [ ] Week 2
+- [x] Lab 1
+- [ ] Lab 2
